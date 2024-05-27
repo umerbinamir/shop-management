@@ -1,0 +1,632 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\views\\staff\\viewstaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:views\\staff\\viewstaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\views\\staff\\addstaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:views\\staff\\addstaff.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\views\\product\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:views\\product\\viewproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\views\\product\\searchproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:views\\product\\searchproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\views\\product\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:views\\product\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:viewmodels\\customerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\models\\purchaseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:models\\purchaseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|g:\\uni projects\\vp\\shop-management-system-main\\sdp\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3765F94B-69DA-4BE5-A30A-CB7D77CA8CA0}|SDP.csproj|solutionrelative:data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCustomer.cshtml",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\Customer\\AddCustomer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\AddCustomer.cshtml",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\Customer\\AddCustomer.cshtml",
+              "RelativeToolTip": "Views\\Customer\\AddCustomer.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:33:11.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAABAAAAAAAAAAAYwDkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:05:22.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:06:21.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:06:26.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewStaff.cshtml",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\Staff\\ViewStaff.cshtml",
+              "RelativeDocumentMoniker": "Views\\Staff\\ViewStaff.cshtml",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\Staff\\ViewStaff.cshtml",
+              "RelativeToolTip": "Views\\Staff\\ViewStaff.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:28:39.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewProducts.cshtml",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\Product\\ViewProducts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\ViewProducts.cshtml",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\Product\\ViewProducts.cshtml",
+              "RelativeToolTip": "Views\\Product\\ViewProducts.cshtml",
+              "ViewState": "AQIAAIUAAAAAAAAAAAD4v5EAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:25:33.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\UpdateProduct.cshtml",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeToolTip": "Views\\Product\\UpdateProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:28:10.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\Product\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\AddProduct.cshtml",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\Product\\AddProduct.cshtml",
+              "RelativeToolTip": "Views\\Product\\AddProduct.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABYAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:25:14.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddStaff.cshtml",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\Staff\\AddStaff.cshtml",
+              "RelativeDocumentMoniker": "Views\\Staff\\AddStaff.cshtml",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\Staff\\AddStaff.cshtml",
+              "RelativeToolTip": "Views\\Staff\\AddStaff.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:00:21.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SearchProduct.cshtml",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\Product\\SearchProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\SearchProduct.cshtml",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\Product\\SearchProduct.cshtml",
+              "RelativeToolTip": "Views\\Product\\SearchProduct.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAD4vz0AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:27:26.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteProduct.cshtml",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\Product\\DeleteProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\DeleteProduct.cshtml",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\Product\\DeleteProduct.cshtml",
+              "RelativeToolTip": "Views\\Product\\DeleteProduct.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:25:23.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ProductViewModel.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ProductViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:25:05.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StaffController.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "Controllers\\StaffController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwC8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:59:12.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:58:43.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAIwGIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:16:01.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "register.cshtml",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\Account\\register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\register.cshtml",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\Account\\register.cshtml",
+              "RelativeToolTip": "Views\\Account\\register.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:14:16.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:01:34.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T08:15:47.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T08:19:15.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T08:14:38.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "serviceDependencies.local.json",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Properties\\serviceDependencies.local.json",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.local.json",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Properties\\serviceDependencies.local.json",
+              "RelativeToolTip": "Properties\\serviceDependencies.local.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T09:00:59.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:14:02.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:20:49.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T09:01:15.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:01:55.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T09:00:52.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:00:11.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T09:00:14.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:59:08.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerViewModel.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\ViewModels\\CustomerViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CustomerViewModel.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\ViewModels\\CustomerViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CustomerViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:59:00.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "staff.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Models\\staff.cs",
+              "RelativeDocumentMoniker": "Models\\staff.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Models\\staff.cs",
+              "RelativeToolTip": "Models\\staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:58:53.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PurchaseProduct.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Models\\PurchaseProduct.cs",
+              "RelativeDocumentMoniker": "Models\\PurchaseProduct.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Models\\PurchaseProduct.cs",
+              "RelativeToolTip": "Models\\PurchaseProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:58:50.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "product.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Models\\product.cs",
+              "RelativeDocumentMoniker": "Models\\product.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Models\\product.cs",
+              "RelativeToolTip": "Models\\product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:58:46.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Order.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:58:44.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "customer.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Models\\customer.cs",
+              "RelativeDocumentMoniker": "Models\\customer.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Models\\customer.cs",
+              "RelativeToolTip": "Models\\customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:58:41.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "G:\\Uni Projects\\VP\\Shop-Management-System-main\\SDP\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:18:57.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
